@@ -1,11 +1,11 @@
-for (let number = -1; number <= 1; number++)
+for(let number = -1; number <= 1; number++){
 if (number > 0) {
     console.log('number is larger than zero');
 } else if (number < 0) {
     console.log('number is smaller than zero');
 } else {
     console.log('number is zero');
-}
+}}
 
 
 let day = '7';
